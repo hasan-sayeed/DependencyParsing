@@ -1,0 +1,2 @@
+Aesthetic Appreciation and Spanish Art : ||| ADJ NOUN CCONJ ADJ NOUN PUNCT ||| SHIFT SHIFT REDUCE_L_amod SHIFT SHIFT SHIFT REDUCE_L_amod REDUCE_L_cc REDUCE_R_conj SHIFT REDUCE_R_punct
+Insights from Eye - Tracking ||| NOUN ADP NOUN PUNCT NOUN ||| SHIFT SHIFT SHIFT SHIFT REDUCE_R_punct SHIFT REDUCE_L_compound REDUCE_L_case REDUCE_R_nmod
